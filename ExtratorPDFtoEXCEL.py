@@ -17,6 +17,7 @@ coordinates = [
     {'left': 200.0, 'top': 503.52, 'width': 55.6, 'height': 10.0},     # Coordenadas da fonte de despesa
     {'left': 43.0, 'top': 627.52, 'width': 387.29, 'height': 10.0} ,   # Coordenadas da natureza da despesa
     {'left': 125.0, 'top': 306.52, 'width': 122.66, 'height': 10.0} ,   # Modalidade da licitação
+    {'left': 407.0, 'top': 503.52,'width': 33.36, 'height': 10.0} ,   # UGR
 ]
 
  
